@@ -2,7 +2,7 @@
 
 * O fóco deste projeto é práticar JavaScript ⭐
 
-Temos aqui um relógio digital simples que marca a hora.
+Temos aqui um relógio digital simples que marca a hora...
 
 * <h3> Tecnologia utilizada: </h3>
 
